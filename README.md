@@ -5,6 +5,7 @@
 *DOMAIN*:FRONTEND DEVELOPMENT
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
+<img width="534" height="911" alt="Image" src="https://github.com/user-attachments/assets/512c222c-c017-43f9-b5f6-dd3bbc76439e" />
 
 ## 🔹 1️⃣ HTML Code Description
 
